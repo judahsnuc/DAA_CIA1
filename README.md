@@ -1,6 +1,9 @@
 # DAA_CIA1
 Judah's submission for DAA CIA 1 assignment.
 
+My Choice of Programming Language:
+I chose Java as my primary language mainly because of it's portability. All I need to do is write the code once and run it anywhere I want thanks to the Java Virtual Machine. It makes deployment of applications using containers (through an application like docker) so much more easier and faster. I also choose to use Java because of it's memory management and simplicity of using variables through reference as there's no pointers to be confused about.
+
 Algorithm: Prim's
 What: Greedy Algorithm
 Why: To find minimum spanning tree (MST)
