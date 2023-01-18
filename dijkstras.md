@@ -1,0 +1,1 @@
+Dijkstra's Algorithm can be used to find the shortest path from the source node to all nodes a non-negative weighted directed graph. It can also be used to find the shortest path in a negative weigted directed graph as long as there is no cycles that are being formed with a negative edge.
