@@ -1,0 +1,1 @@
+Kruskal's Algorithm CANNOT be implemented in ANY programming language as it ONLY works for non-negative weighted undirected graphs as it is simlar to Prim's in terms of deriving the minimum spanning tree of a graph.
